@@ -14,7 +14,9 @@ This project aims to predict the preferred mode of transport for employees commu
 Predictive Modelling:
 
 This project includes two case studies: Gems Price Prediction and Holiday Package Prediction.
+
 Gems Price Prediction: Uses linear regression to predict the price of gems based on multiple variables, helping the company maximize profits.
+
 Holiday Package Prediction: Uses logistic regression to predict whether a customer will purchase a holiday package, enabling targeted marketing efforts.
 
 Data Mining:
